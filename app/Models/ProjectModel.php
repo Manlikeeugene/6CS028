@@ -6,5 +6,6 @@ use CodeIgniter\Model;
 class ProjectModel extends Model
 {
     protected $table = 'projects';
-    protected $allowedFields = ['title', 'image', 'view_link'];
+    protected $primaryKey = 'id';
+    protected $allowedFields = ['title', 'slug', 'body', 'image'];
 }

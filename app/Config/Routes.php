@@ -16,6 +16,10 @@ $routes->get('db-test', function () {
 
 $routes->get('/', 'Portfolio::index');
 $routes->get('pages', [Pages::class, 'index']);
+$routes->get('portfolio', 'Portfolio::index');
+$routes->get('portfolio', 'Portfolio::index');
+$routes->get('portfolio/(:segment)', 'Portfolio::view/$1');
+
 $routes->get('(:segment)', [Pages::class, 'view']);
 
     

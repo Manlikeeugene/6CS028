@@ -18,7 +18,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="contactus">Contact </a>
                 </li>
-                <a class="nav-link" href="my_portfolio">My Portfolio</a>
+                <a class="nav-link" href="portfolio">My Portfolio</a>
                 </li>
             </ul>
             <form class="d-flex" role="search">
