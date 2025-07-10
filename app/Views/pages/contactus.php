@@ -11,7 +11,7 @@
         <h2 style="color: #e74c3c;">Get in Touch</h2>
         <p style="color: #555;">Feel free to reach out to me for web development services or collaborations.</p>
         <p style="font-size: 18px;"><strong>Email:</strong> iraboreugeneo@gmail.com</p>
-        <p style="font-size: 18px;"><strong>Phone:</strong> +447754885887</p>
+        <p style="font-size: 18px;"><strong>Phone:</strong> +447754886589</p>
     </section>
 
     <!-- Contact Form -->
