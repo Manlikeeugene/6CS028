@@ -27,7 +27,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>connect with me</title>
+  <title> Find Me on the Map</title>
   <style>
     body {
       font-family: Arial, sans-serif;
