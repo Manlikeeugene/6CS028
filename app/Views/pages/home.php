@@ -62,7 +62,7 @@
     <!-- Testimonials Section -->
     <section class="testimonials">
         <h2>What Clients Say</h2>
-        <p>"Eugene is an amazing developer! He built a fantastic website for my business." - Client A</p>
+        <p>"Eugene is an exceptional developer! He created a fantastic website for my business that exceeded my expectations." - Client A</p>
     </section>
     
 
