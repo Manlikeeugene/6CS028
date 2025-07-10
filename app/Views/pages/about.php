@@ -14,7 +14,7 @@
         </div>
         <div class="col-md-6">
             <h4>Get in Touch</h4>
-            <p>I'm always open to new opportunities, collaborations, and discussions.</p>
+            <p>I'm enthusiastic about exploring new opportunities, collaborating with others, and having inspiring conversations.</p>
             <p><strong>Email:</strong> <a href="mailto:your@email.com">iraboreugeneo@gmail.com</a></p>
             <p><strong>Connect:</strong> 
                 <a href="https://github.com/yourprofile" target="_blank">GitHub</a> | 
